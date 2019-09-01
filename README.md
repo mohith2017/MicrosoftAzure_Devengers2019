@@ -5,7 +5,7 @@ Repository that contains the ML algorithm that has an accuracy of 78.37 percent
 [http://6d530987-6c00-40ec-b218-945284ad60a2.westus2.azurecontainer.io/score](http://6d530987-6c00-40ec-b218-945284ad60a2.westus2.azurecontainer.io/score)
 
 # Frontend 
-This was done in Android for simulation of the model in the form of an App. The App's code is present in  [github.com/Manish-M2018/Microsoft_hackathon](github.com/Manish-M2018/Microsoft_hackathon)
+This was done in Android for simulation of the model in the form of an App. The App's code is present in  [github.com/Manish-M2018/Microsoft_hackathon](https://github.com/Manish-M2018/Microsoft_hackathon)
 
 
 # Deploying 
