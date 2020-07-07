@@ -1,5 +1,5 @@
 # MicrosoftAzure_Devengers2019
-Repository that contains the ML Logistic Regression algorithm that has an accuracy of 78.37 percent
+Repository that contains the ML Logistic Regression algorithm for Treatment based recommendation done at a hackathon called Microsoft Devengers that has an accuracy of 78.37 percent.
 
 # Deployed link on Microsoft Azure
 [http://6d530987-6c00-40ec-b218-945284ad60a2.westus2.azurecontainer.io/score](http://6d530987-6c00-40ec-b218-945284ad60a2.westus2.azurecontainer.io/score)
